@@ -1,0 +1,25 @@
+{
+  "name": "codeday-clear",
+  "version": "1.0.0",
+  "description": "Node.js module to interact with Clear's API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo No && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tjhorner/clear.js"
+  },
+  "keywords": [
+    "studentrnd",
+    "api",
+    "clear",
+    "codeday"
+  ],
+  "author": "TJ Horner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tjhorner/clear.js/issues"
+  },
+  "homepage": "https://github.com/tjhorner/clear.js"
+}
