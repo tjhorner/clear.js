@@ -1,1 +1,1 @@
-module.exports = require('../lib/clear');
+module.exports = require('./lib/clear');
